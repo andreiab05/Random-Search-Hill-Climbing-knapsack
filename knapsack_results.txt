@@ -1,7 +1,0 @@
-Instance,Best Value
-knapsack-20.txt,10,787,748.50
-knapsack-20.txt,50,785,742.54
-knapsack-20.txt,100,787,749.62
-knapsack-200.txt,10,97617,96182.10
-knapsack-200.txt,50,97732,96547.46
-knapsack-200.txt,100,97542,96487.41
